@@ -30,7 +30,7 @@ namespace Curso
                 { "Atributos Estaticos", AtributosEstaticos.Executar},
                 { "Desafio Atributos", DesafioAtributos.Executar},
                 { "Params", Params.Executar},
-                { "Parametros nomados", ParametrosNomeados.Executar},
+                { "Parametros Nomeados", ParametrosNoemados.Executar},
             });
              central.SelecionarExecutar();
         }

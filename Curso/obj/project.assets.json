@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego Maximo\\Desktop\\Coding\\C# Curso\\Curso\\Curso\\Curso.csproj",
+      "projectUniqueName": "C:\\Users\\Diego Maximo\\Desktop\\Coding\\curso-csharp\\Curso\\Curso.csproj",
       "projectName": "Curso",
-      "projectPath": "C:\\Users\\Diego Maximo\\Desktop\\Coding\\C# Curso\\Curso\\Curso\\Curso.csproj",
+      "projectPath": "C:\\Users\\Diego Maximo\\Desktop\\Coding\\curso-csharp\\Curso\\Curso.csproj",
       "packagesPath": "C:\\Users\\Diego Maximo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego Maximo\\Desktop\\Coding\\C# Curso\\Curso\\Curso\\obj\\",
+      "outputPath": "C:\\Users\\Diego Maximo\\Desktop\\Coding\\curso-csharp\\Curso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diego Maximo\\AppData\\Roaming\\NuGet\\NuGet.Config",

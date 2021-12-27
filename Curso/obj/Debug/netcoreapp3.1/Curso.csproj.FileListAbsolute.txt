@@ -12,3 +12,17 @@ C:\Users\Diego Maximo\Desktop\Coding\C# Curso\Curso\Curso\bin\Debug\netcoreapp3.
 C:\Users\Diego Maximo\Desktop\Coding\C# Curso\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.dll
 C:\Users\Diego Maximo\Desktop\Coding\C# Curso\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.pdb
 C:\Users\Diego Maximo\Desktop\Coding\C# Curso\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.genruntimeconfig.cache
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.AssemblyReference.cache
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\obj\Debug\netcoreapp3.1\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfoInputs.cache
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfo.cs
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.CoreCompileInputs.cache
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\obj\Debug\netcoreapp3.1\Curso.dll
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\obj\Debug\netcoreapp3.1\Curso.pdb
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\bin\Debug\netcoreapp3.1\Curso.exe
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\bin\Debug\netcoreapp3.1\Curso.deps.json
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.json
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.dev.json
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\bin\Debug\netcoreapp3.1\Curso.dll
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\bin\Debug\netcoreapp3.1\Curso.pdb
+C:\Users\Diego Maximo\Desktop\Coding\curso-csharp\Curso\obj\Debug\netcoreapp3.1\Curso.genruntimeconfig.cache
